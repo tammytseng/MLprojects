@@ -2,7 +2,8 @@
 
 ## Machine Learning Foundations for Product Managers - Duke University (Coursera)
 
-Using Machine learning to calculate the electricity usage in factories - https://www.youtube.com/watch?v=x7AcF63mXDw
+Using Machine learning to calculate the electricity usage in factories 
+https://www.youtube.com/watch?v=x7AcF63mXDw
 
 ## Managing Machine Learning - Duke University (Coursera)
 
